@@ -15,5 +15,5 @@ not provided. Config will be printed to the stdout if -f (--file) omitted.
 from pfbackup.pfsense import pfSense
 
 
-__version__ = "1.1.0"
+__version__ = "1.1.1"
 __all__ = ("pfSense")

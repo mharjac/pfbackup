@@ -1,5 +1,5 @@
 name: pfbackup
-version: '1.1.0'
+version: '1.1.1'
 summary: pfSense config backup tool
 description: |
   Simple utility for backing up pfSense configuration which uses web admin interface.
